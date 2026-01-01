@@ -3,7 +3,7 @@ A PDF-Grounded Scientific Question Answering System
 
 ## Project Architecture
 
-![Science RAG Chatbot](science_rag_chatbot.png)
+![Science RAG Chatbot](Science_rag_chatbot.png)
 
 ---
 
