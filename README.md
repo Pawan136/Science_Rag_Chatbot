@@ -1,7 +1,9 @@
 #  Science RAG Chatbot  
 A PDF-Grounded Scientific Question Answering System
 
-![Science RAG Chatbot UI](science_rag_chatbot.png)
+## Project Architecture
+
+![Science RAG Chatbot](science_rag_chatbot.png)
 
 ---
 
