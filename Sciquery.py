@@ -82,10 +82,6 @@ def answer_question(user_question: str, llm):
     )
 
     # ---- Step 4: Answer generation
-    
-    def answer_question(user_question: str, llm):
-     rewritten_query = transform_query(user_question, llm)
-
     # --- retrieve context from Pinecone (unchanged) ---
     # context = ...
 
